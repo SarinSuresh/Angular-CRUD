@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": "103",
+      "title": "Apple Watch Series 8",
+      "description": "The ultra-tough 49mm titanium case with Action button strikes a balance with weight, ruggedness and corrosion resistance\nBiggest, brightest Always-On Retina display that’s readable in the harshest conditions\nPrecision dual-frequency GPS provides accurate locations for calculating distance, pace and route maps",
+      "price": "42800",
+      "rating": "4",
+      "stock": "8",
+      "brand": "Apple",
+      "thumbnail": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
+      "images": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=465&q=80",
+      "categoryId": "1"
+    },
+    {
+      "id": "12",
+      "title": "MacBook Pro ",
+      "thumbnail": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2Jvb2slMjBwcm98ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+      "images": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2Jvb2slMjBwcm98ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+      "price": "120000",
+      "rating": "4.5",
+      "stock": "5",
+      "brand": "Apple",
+      "categoryId": "2",
+      "description": "Your MacBook Pro comes with apps for most everything you want to do. Edit and share your photos and videos, create presentations, and enjoy music, books, movies, and more."
+    },
+    {
+      "thumbnail": "https://www.amtradez.com/wp-content/uploads/2023/03/Apple-iPhone-14-Pro-Max-1TB.webp",
+      "images": "https://www.amtradez.com/wp-content/uploads/2023/03/Apple-iPhone-14-Pro-Max-1TB.webp",
+      "price": "101000",
+      "rating": "5",
+      "stock": "8",
+      "brand": "Apple",
+      "categoryId": "1",
+      "id": "100",
+      "title": "Iphone 14 Pro ",
+      "description": "How many watts is the iPhone 14 Pro charger?\niPhone 14 and iPhone 14 Pro Max Charging Speeds Tested ...\nThe short answer is to choose Apple's 30W USB-C power adapter, which at $39 is the company's lowest-priced charger that can charge the iPhone 1"
+    },
+    {
+      "thumbnail": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
+      "images": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
+      "id": "130",
+      "title": "Samsung S23 ultra",
+      "description": "The Samsung Galaxy S23 is a series of high-end Android-based smartphones designed, developed, manufactured, and marketed by Samsung Electronics as part of its flagship Galaxy S series. The phones were announced and unveiled on 1 February 2023 at the Galaxy Unpacked in-person event and were released on 17 February 2023",
+      "price": "115000",
+      "rating": "5",
+      "stock": "7",
+      "brand": "Samsung",
+      "categoryId": "1"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Smartphones"
+    },
+    {
+      "id": "2",
+      "name": "Laptops"
+    }
+  ]
+}
